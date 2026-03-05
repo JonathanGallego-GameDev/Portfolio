@@ -1,6 +1,6 @@
 # Jonathan's Game Dev Portfolio 2026
 
-## Contact Info [Email Me](mailto:9637889@Graniteschools.org)- 1 Point
+## Contact Info [Email Me](mailto:9637889@Graniteschools.org)
 
 #### Certifications earned: Exploring computer Science, Graphic Print design and game dev fundamentals 1
 
